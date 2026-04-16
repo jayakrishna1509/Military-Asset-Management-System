@@ -174,6 +174,10 @@ military-asset-system/
 4. Add environment variable: `REACT_APP_API_URL` = your backend URL
 5. Deploy
 
+```
+https://military-asset-management-system-kristalball.vercel.app/
+```
+
 ### Backend → Render
 
 1. Go to [render.com](https://render.com) and create a new Web Service
@@ -184,6 +188,9 @@ military-asset-system/
 6. Add environment variables from your `.env` file
 7. Deploy
 
+```
+https://military-asset-management-system-jvyc.onrender.com
+```
 ---
 
 ## 📄 Documentation
